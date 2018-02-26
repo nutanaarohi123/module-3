@@ -1,0 +1,41 @@
+﻿
+h1#ton {
+	margin-bottom: 50px;
+        color: red;
+	}
+
+#first {
+	font-family: arial;
+	color: black;
+	clear: right;
+        background-color:powderblue;
+	}
+#second {
+	font-family: arial;
+	color: black;
+	clear: right;
+        background-color:gray;
+	}
+#third {
+	font-family: arial;
+	color: black;
+	clear: right;
+        background-color:pink;
+	}
+h2#one {
+	text-align: center;
+        color: blue;
+margin-top: 0;
+	margin-bottom:20px;
+	}
+h2#two {
+	text-align: center;
+        color: green;
+margin-top: 0;
+	margin-bottom:20px;}
+h2#three {
+	text-align: center;
+        color: yellow;
+margin-top: 0;
+	margin-bottom:20px;
+}
